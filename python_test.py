@@ -7,3 +7,8 @@ plt.plot(x,y)
 
 fgdhfd
 plt.show()
+
+
+
+
+1615610.13
